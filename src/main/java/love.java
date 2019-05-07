@@ -3,5 +3,6 @@ public class love{
 		System.out.println("first hello world");
 		System.out.println("first hello world");
 		System.out.println("first hello world");
+		System.out.println("璇玑");
 	}
 }
